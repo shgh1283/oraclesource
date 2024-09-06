@@ -11,6 +11,7 @@ FROM
 	EMPLOYEES e ;
 	
 -- 사원번호가 176인 사원의 LAST_NAME, 부서번호 조회
+-- 나는ㄴ 집가고싶어
 SELECT
 	EMPLOYEE_ID,
 	LAST_NAME,
