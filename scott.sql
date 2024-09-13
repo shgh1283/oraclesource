@@ -1728,3 +1728,6 @@ CREATE SEQUENCE board_seq;
 INSERT INTO BOARD(bno,name,password,title,content)
 VALUES(board_seq.nextval,'김보관','1234','asdf','qwer');
 SELECT *FROM BOARD;
+
+
+
